@@ -18,7 +18,7 @@ dict = { 'a':'.-', 'b':'-...',
                     '(':'-.--.', ')':'-.--.-'}
 
 
-bot = telebot.TeleBot("5947477164:AAGcETvCF-_Po3I6YzRHhZBQ8n7XfJ6jHc0")
+bot = telebot.TeleBot("Add your API key here")
 
 
 @bot.message_handler(commands=['start', 'help'])
